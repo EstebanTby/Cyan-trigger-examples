@@ -1,6 +1,6 @@
 # Cyan-trigger-examples
 
-Release:
+Download proyect here Release:
 https://github.com/EstebanTby/Cyan-trigger-examples/releases
 
 
